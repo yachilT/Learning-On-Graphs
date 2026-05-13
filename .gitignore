@@ -1,0 +1,9 @@
+# Downloaded datasets
+hw1/data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
