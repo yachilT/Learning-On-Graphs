@@ -1,6 +1,8 @@
 # Downloaded datasets
 hw1/data/
 
+# Overleaf reports
+LoG-hw*
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
