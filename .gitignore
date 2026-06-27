@@ -6,6 +6,7 @@ LoG-hw*
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
+Lectures/
 # Python bytecode
 __pycache__/
 *.pyc
