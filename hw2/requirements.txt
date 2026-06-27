@@ -12,3 +12,6 @@ numpy==2.4.4
 networkx==3.6.1
 matplotlib==3.10.9
 torch==2.11.0+cu130
+tqdm==4.67.3
+ipython==9.13.0
+pillow==12.2.0
