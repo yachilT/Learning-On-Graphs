@@ -3,6 +3,7 @@ hw1/data/
 
 # Overleaf reports
 LoG-hw*
+hw2/LoG-hw*
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
